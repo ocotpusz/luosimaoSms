@@ -3,7 +3,7 @@
 
 使用示例：
 
-使用方法:composer require Octopusz/sms dev-master
+使用方法:composer require octopusz/sms dev-master
 
 `require 'vendor/autoload.php';`
 
