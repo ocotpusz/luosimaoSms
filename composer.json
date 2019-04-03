@@ -1,10 +1,10 @@
 {
-  "name": "Ocotpusz/sms",
+  "name": "octopusz/sms",
   "description": "集成luosimao发送短信的composer包",
   "license": "MIT",
   "authors": [
     {
-      "name": "Ocotpusz",
+      "name": "octopusz",
       "email": "octopusz@yeah.net"
     }
   ],
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Ocotpusz\\Sms\\": "src/"
+      "Octopusz\\Sms\\": "src/"
     }
   }
 }

@@ -1,7 +1,7 @@
 <?php
 require 'vendor/autoload.php';
 
-use Ocotpusz\Sms\Sms;
+use Octopusz\Sms\Sms;
 
 //api key可在后台查看 短信->触发发送下面查看
 $sms = new Sms(array('api_key' => 'xxxxxxxxxxxxxxxxxxxxx', 'use_ssl' => false));

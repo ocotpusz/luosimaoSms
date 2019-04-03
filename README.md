@@ -3,11 +3,11 @@
 
 使用示例：
 
-使用方法:composer require Ocotpusz/sms dev-master
+使用方法:composer require Octopusz/sms dev-master
 
 `require 'vendor/autoload.php';`
 
-`use Ocotpusz\Sms\Sms;`
+`use Octopusz\Sms\Sms;`
 
 //api key可在后台查看 短信->触发发送下面查看
 
